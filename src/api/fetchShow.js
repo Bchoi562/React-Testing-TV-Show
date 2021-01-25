@@ -13,5 +13,5 @@ export const fetchShow = () => {
       })
       .catch((err) => {
         console.log(`Snap, the API call falled with ${err}`);
-      });
+      });  
   };
